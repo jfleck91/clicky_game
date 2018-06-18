@@ -5,5 +5,7 @@ if you click any image more than once the game will restart
 try to click all 12 with out messing up
 
 https://jfleck91.github.io/clicky_game/
+<br>
+
 
 This app was created with react
