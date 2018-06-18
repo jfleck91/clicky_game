@@ -6,7 +6,7 @@
     },
     {
       "id": 2,
-      "image": "./Assets/Images/Chekhov.jpg",
+      "image": "./Assets/Images/Chekhov.JPG",
       "clicked": false
     },
     {
@@ -16,7 +16,7 @@
     },
     {
       "id": 4,
-      "image": "./Assets/Images/Kirk.jpg",
+      "image": "./Assets/Images/Kirk.JPG",
       "clicked": false
     },
     {
@@ -41,12 +41,12 @@
     },
     {
       "id": 9,
-      "image": "./Assets/Images/Scotty.jpg",
+      "image": "./Assets/Images/Scotty.JPG",
       "clicked": false
     },
     {
       "id": 10,
-      "image": "./Assets/Images/Sulu.jpg",
+      "image": "./Assets/Images/Sulu.JPG",
       "clicked": false
     },
     {
